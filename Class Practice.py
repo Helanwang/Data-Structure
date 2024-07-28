@@ -75,3 +75,19 @@ skirts.scanning()
 
 print(skirts)
 skirts.scanning()
+
+
+class Student:
+
+    school = "Foothill College"
+
+    def __init__(self, first_name, last_name):
+        self.first_name = first_name
+        self.last_name = last_name
+
+    def get_emails(self):
+        print(f"{self.first_name}.{self.last_name}@gmail.com")
+
+
+Helen_Wang = Student("Helen", "Wang")
+Helen_Wang.get_emails()
