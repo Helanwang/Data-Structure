@@ -1,0 +1,27 @@
+DSA:Data Structures and Algorithms (DSA)
+Use large amounts of data to solve problems efficiently.
+
+Data structures are essential ingredients in creating fast and powerful algorithms.
+
+They help in managing and organizing data, reduce complexity, and increase efficiency.
+
+Algorithms:
+Steps to solve the problems
+
+Data Structure:
+How data can be stored in different structures.
+
+Time Complexity: A measure of the amount of time an algorithm takes to run,
+depending on the amount of data the algorithm is working on.
+
+Space Complexity: A measure of the amount of memory an algorithm uses,
+depending on the amount of data the algorithm is working on.
+
+Recursion	A programming technique where a function calls itself.
+
+# there are inputs, the computers will process the data in a logical ways to reach the output
+that we desired.
+
+Great algorithms solve bigger problems. Imagine companies that have billions of datas, like google.
+
+Big O running time. The worst running time it will take.

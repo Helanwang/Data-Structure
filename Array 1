@@ -1,0 +1,24 @@
+An array is a data structure cna store multiple elements.
+Arrays are indexed, each element in the array has an index. (Index starting from zero)
+
+my_array = [2, 5, 10, 8, 20, 90]
+print(my_array[0]) # Output = 2
+
+Write down the algorithm in something between human language and programming language,
+the algorithm will be easier to implement later.
+
+Task: Find the lowest value in the array
+
+Steps:
+Create a variable 'minVal' and set it equal to the first value of the array.
+Go through every element in the array.
+If the current element has a lower value than 'minVal', update 'minVal' to this value.
+After looking at all the elements in the array, the 'minVal' variable now contains the lowest value.
+
+In programming notation:
+Variable 'minVal' = array[0]
+For each element in the array
+    If current element < minVal
+        minVal = current element
+
+
