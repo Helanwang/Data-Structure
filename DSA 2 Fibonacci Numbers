@@ -1,0 +1,12 @@
+A Simple Algorithm Example:
+Steps to solve Fibonacci Numbers
+
+Next Fibonacci number  = sum of the two previous numbers
+
+[0, 1, 1, 2, 3, 5, 8, 13, 21]
+
+Steps to solve the problems:
+1. Define the first two Fibonacci number
+2. Add the two previous numbers together to create a new Fibonacci number.
+3. Update the value of the two previous numbers.
+4. Repeat.
