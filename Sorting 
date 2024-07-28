@@ -1,0 +1,24 @@
+
+# for selections sorts:
+
+Array = []
+
+Outer Loops:
+
+set how many times the inner loop must run. (run n-1)
+
+Inner Loops:
+
+finds the lowest value,
+moves it to the front of the array
+Loop must loop through one less value each time it runs.
+    
+# bubble sorts:
+
+outer loops: An outer loop that controls how many times the inner loop must run.
+
+Inner Loops:
+
+goes through the array,
+swaps values if the first value is higher than the next value.
+This loop must loop through one less value each time it runs.
